@@ -1,0 +1,17 @@
+{
+    "en": {
+        "no_messages": "There are currently no messages at this location.",
+        "welcome": "Welcome to Sakai",
+        "gateway": "Gateway",
+        "admin_home": "Admin Home",
+        "regular_home": "Message Of The DayHome Information Display"
+    },
+    "es": {
+        "no_messages": "No hay mensajes en esta ubicación.",
+        "welcome": "Bienvenido a Sakai",
+        "gateway": "Gateway",
+        "admin_home": "Admin Home",
+        "regular_home": "Message Of The DayHome Information Display"
+    }
+
+}
